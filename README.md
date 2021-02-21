@@ -1,5 +1,6 @@
 FORK:
-- MQTT Verbindung für z.B. IOBroker zur Temnperaturübermittlung 
+- MQTT Script Verbindung für z.B. IOBroker zur Temnperaturübermittlung als Python
+- stl gespiegelt mit Halterung für Raspberry 3B
 
 
 ![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)

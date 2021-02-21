@@ -1,3 +1,7 @@
+FORK:
+- MQTT Verbindung für z.B. IOBroker zur Temnperaturübermittlung 
+
+
 ![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
 
 Maker Media GmbH

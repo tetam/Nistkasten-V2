@@ -1,6 +1,7 @@
 FORK:
 - MQTT Script Verbindung für z.B. IOBroker zur Temnperaturübermittlung als Python
 - stl gespiegelt mit Halterung für Raspberry 3B
+- Gespiegelte Datei von <a href="https://github.com/Lumixnick">Lumixnick</a> hinzugefügt.
 
 
 ![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
